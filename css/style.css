@@ -50,13 +50,12 @@ img {
 
 .small {
   width: 100%;
-  height: 100%;
 }
 
 .med {
-  width: 203.5%;
+  width: 200%;
 }
 
 .large {
-  width: 303%;
+  width: 300%;
 }
