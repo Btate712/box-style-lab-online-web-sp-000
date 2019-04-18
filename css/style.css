@@ -23,7 +23,7 @@ h4 {
 }
 
 img {
-  border: solid;
+  border: 1px; solid;
 }
 
 .amiable {
